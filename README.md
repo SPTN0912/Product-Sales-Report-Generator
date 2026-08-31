@@ -175,8 +175,8 @@ Main Branch
 | GitHub ID        | Contribution                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------- |
 | **SPTN0912**     | Core business logic, sales calculations, report generation and related unit tests             |
-| **Lasathmie**    | CSV file processing, SOLID design and related unit tests                                      |
-| **Chandula2324** | Command-line interface, output handling, error handling, documentation and related unit tests |
+| **Lasathmie**    | CSV file processing, SOLID design,documentation and related unit tests                                      |
+| **Chandula2324** | Command-line interface, output handling, error handling and related unit tests |
 
 ## License
 
