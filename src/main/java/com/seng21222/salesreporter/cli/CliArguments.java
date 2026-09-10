@@ -6,8 +6,6 @@ package com.seng21222.salesreporter.cli;
  * {@link ConsoleInputPrompter}. Having one shared type means the rest of
  * SalesReporter.run() does not need to know or care which source supplied
  * the values.
- *
- * Module owner: Dulanjana (Member 3 - Console Interface, Exception Handling & Documentation)
  */
 public final class CliArguments {
 
