@@ -26,8 +26,6 @@ import java.util.Scanner;
  * happens where it already lived: in CsvSalesDataReader and
  * OutputStrategyFactory. That keeps validation logic in exactly one place
  * for both the CLI-argument path and the interactive path.
- *
- * Module owner: Dulanjana (Member 3 - Console Interface, Exception Handling & Documentation)
  */
 public class ConsoleInputPrompter {
 
