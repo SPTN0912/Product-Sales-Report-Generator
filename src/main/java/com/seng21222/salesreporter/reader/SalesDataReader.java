@@ -1,0 +1,15 @@
+package com.seng21222.salesreporter.reader;
+
+import com.seng21222.salesreporter.exception.CsvFileNotFoundException;
+import com.seng21222.salesreporter.exception.InvalidCsvRowException;
+import com.seng21222.salesreporter.model.Product;
+
+import java.util.List;
+
+
+public interface SalesDataReader {
+
+
+    List<Product> readData(String sourcePath)
+            throws CsvFileNotFoundException, InvalidCsvRowException;
+}
