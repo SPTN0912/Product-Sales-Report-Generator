@@ -1,0 +1,31 @@
+product_id, product_name, category, quantity_sold, unit_price
+P001, Wireless Mouse, Electronics, 12, 25.50
+P002, Notebook, Stationery, 35, 3.75
+P003, USB Hub, Electronics, 8, 18.00
+P004, Ballpoint Pen, Stationery, 100, 0.50
+P005, HDMI Cable, Electronics, 20, 12.00
+P006, Keyboard, Electronics, 15, 32.00
+P007, A4 Paper Pack, Stationery, 45, 6.50
+P008, Webcam, Electronics, 10, 45.00
+P009, Stapler, Stationery, 25, 4.25
+P010, Laptop Stand, Accessories, 7, 28.00
+P011, Monitor, Electronics, 6, 185.00
+P012, Gel Pen Set, Stationery, 30, 5.75
+P013, USB Flash Drive, Electronics, 22, 14.50
+P014, Desk Organizer, Stationery, 18, 8.00
+P015, Headphones, Electronics, 14, 55.00
+P016, Calculator, Stationery, 12, 16.50
+P017, Ethernet Cable, Electronics, 30, 7.25
+P018, External Hard Drive, Electronics, 5, 95.00
+P019, Sticky Notes, Stationery, 60, 2.25
+P020, Bluetooth Speaker, Electronics, 9, 48.00
+P021, Office Chair, Furniture, 4, 145.00
+P022, Desk Lamp, Furniture, 11, 22.50
+P023, Power Bank, Electronics, 16, 35.00
+P024, Whiteboard Marker Set, Stationery, 28, 6.75
+P025, Mobile Phone Stand, Accessories, 19, 9.50
+P026, Printer, Electronics, 3, 220.00
+P027, File Folder, Stationery, 50, 1.80
+P028, Mechanical Keyboard, Electronics, 8, 75.00
+P029, Backpack, Accessories, 13, 42.00
+P030, Desk Mat, Accessories, 17, 15.00
